@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Web-library
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: pcx
+Implementation-Vendor-Id: com.library
+Build-Jdk: 1.8.0_212
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Web-library
+Created-By: Maven Integration for Eclipse
+
